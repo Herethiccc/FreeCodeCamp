@@ -1,4 +1,4 @@
-# Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm ( Step 35)
+# Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm (Step 35)
 
 def verify_card_number(card_number):
     sum_of_odd_digits = 0
